@@ -46,7 +46,6 @@ def check_word(guess):
   else:
     return -1
     
-    
 
 
 while True:
