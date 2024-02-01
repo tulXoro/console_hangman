@@ -5,7 +5,10 @@ This is a simple application that plays like the traditional children's game [Ha
 You may use this project however you see fit.
 
 # How to start
-Ensure you have [Python](https://www.python.org/downloads/) installed, and optionally use an IDE. Clone the repository and run the game with `python3 main.py`.
+Ensure you have [Python](https://www.python.org/downloads/) installed and optionally use an IDE. If you do not have the right version of Python, you should upgrade/downgrade as necessary.
+Clone the repository with `git clone <url>`.
+Install the necessary dependencies `pip install .`. 
+Run the game with `python3 main.py`. 
 
 # How to use
 Type the letters or words to guess the displayed word.
